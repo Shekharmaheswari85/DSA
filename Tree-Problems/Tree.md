@@ -8,3 +8,4 @@
 - [Determine if a binary tree can be converted to another by doing any number of swaps of children](https://www.techiedelight.com/determine-binary-tree-can-converted-another-number-swaps-left-right-child/)
 - [Sink nodes containing zero to the bottom of a binary tree](https://www.techiedelight.com/sink-nodes-containing-zero-bottom-binary-tree/)
 - [Convert binary tree to Left-child right-sibling binary tree](https://www.techiedelight.com/convert-normal-binary-tree-left-child-right-sibling-binary-tree/)
+- [Build a binary tree from a parent array](https://www.techiedelight.com/build-binary-tree-given-parent-array/)
